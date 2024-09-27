@@ -1,0 +1,5 @@
+# to run this i would have to : 
+# cd '/Users/alexeigrey/Desktop/Code Projects PY' 
+# python keyloggerscript.py
+# deactivate (optional)
+
